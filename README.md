@@ -18,3 +18,4 @@ Dentre as soluções que terão na plataforma:
 * Criação de ordens de serviço
 * Gestão de restaurantes
 * Gestão de hotéis e hosteis
+* Controle de colaboradores
